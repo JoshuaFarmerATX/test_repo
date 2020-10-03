@@ -1,17 +1,17 @@
-# # Pull a repo from the site
-# git clone path/to/repo
+# Pull a repo from the site
+git clone path/to/repo
 
-# # Check Status
-# git status
+# Check Status
+git status
 
-# # Add files to the commit
-# git add .
+# Add files to the commit
+git add .
 
-# # git commit
-# git commit -m "some test"
+# git commit
+git commit -m "some test"
 
-# # Push commit to the repo
-# git push
+# Push commit to the repo
+git push
 
 
 
