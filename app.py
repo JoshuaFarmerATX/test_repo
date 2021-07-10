@@ -1,6 +1,5 @@
-dogs = []
+import os
 
-for i in range(12):
-    dogs.append(0)
+file_path = os.path.join('..', 'Resources', 'somefile.csv')
 
-print(dogs)
+print(file_path)
